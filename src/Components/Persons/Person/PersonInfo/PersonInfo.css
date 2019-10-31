@@ -1,0 +1,10 @@
+.PersonInfo {
+    background-color: mediumorchid;
+    padding: 1em;
+    margin: 1em;
+    text-align: center;
+}
+
+.btn-group>* {
+    margin: 0px 5px;
+}
